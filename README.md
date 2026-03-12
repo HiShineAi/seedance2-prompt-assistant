@@ -1,7 +1,7 @@
 # Seedance 2.0 Prompt Assistant
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/yourusername/seedance2-prompt-assistant/releases)
+[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/HiShineAi/seedance2-prompt-assistant/releases)
 
 一个专业的 Claude Code Skill，用于帮助用户将创意想法转化为专业级的 Seedance 2.0 视频提示词。
 
@@ -19,7 +19,7 @@
 
 1. 克隆此仓库
 ```bash
-git clone https://github.com/yourusername/seedance2-prompt-assistant.git
+git clone https://github.com/HiShineAi/seedance2-prompt-assistant.git
 ```
 
 2. 将 skill 文件复制到 Claude Code skills 目录
