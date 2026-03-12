@@ -1,0 +1,21 @@
+{
+  "models": [
+    {
+      "name": "claude-3-opus",
+      "type": "anthropic",
+      "description": "Anthropic Claude 3 Opus 模型"
+    },
+    {
+      "name": "claude-3-sonnet",
+      "type": "anthropic",
+      "description": "Anthropic Claude 3 Sonnet 模型"
+    },
+    {
+      "name": "glm4.7",
+      "type": "zhipu",
+      "description": "智谱 AI GLM4.7 模型",
+      "default": true
+    }
+  ],
+  "current_model": "glm4.7"
+}
