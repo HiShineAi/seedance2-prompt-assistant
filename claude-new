@@ -1,7 +1,0 @@
-#!/bin/bash
-# 使用 AppleScript 打开新的 Trae CN 窗口
-
-# 使用 AppleScript 告诉 Trae CN 应用创建新窗口
-osascript -e 'tell application "Trae CN" to activate' -e 'tell application "System Events" to keystroke "n" using command down' 2>/dev/null || \
-osascript -e 'tell application "Trae CN" to make new document' 2>/dev/null || \
-open -a "Trae CN" --new

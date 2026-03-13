@@ -1,5 +1,0 @@
-#!/bin/bash
-# 使用 URL scheme 打开新的 Trae CN 窗口
-
-# 使用 trae-cn URL scheme
-open "trae-cn://"

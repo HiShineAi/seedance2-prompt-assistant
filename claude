@@ -1,5 +1,0 @@
-#!/bin/bash
-# Claude 命令行工具 - 在 Trae 中打开新窗口
-
-# 在 Trae 内部打开新窗口
-open -a "Trae CN" --new
